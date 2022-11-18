@@ -49,9 +49,10 @@ pre ?? 타자기 같은 글씨 걍 구닥다리...
 
 ### 검색
 
+   - mdn(Mozilla developer Network) 의 좋은 점은 문서화가 잘되어있음
    - mdn 사용 ex) html mdn ... 
    - w3 schoooooo 사용 xxxxx
-      
+   
       
       
       
