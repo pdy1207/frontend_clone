@@ -72,6 +72,7 @@
 
 
 <hr>
- - [강의 보러가기](https://nomadcoders.co/?gclid=CjwKCAiAmuKbBhA2EiwAxQnt7w7g5jfsELDMdmhcNEZni6PB8KRT0iCmO6XCmZce4WzJ6yd7ml8hRBoCegQQAvD_BwE)
+
+  - [강의 보러가기🖥️](https://nomadcoders.co/?gclid=CjwKCAiAmuKbBhA2EiwAxQnt7w7g5jfsELDMdmhcNEZni6PB8KRT0iCmO6XCmZce4WzJ6yd7ml8hRBoCegQQAvD_BwE)
  
  
