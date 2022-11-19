@@ -70,3 +70,8 @@
         javascript는 똑똑하게 동적으로 만들어주는거임. 클릭하면 무언가가 생긱게끔.
         html 뼈대 css 근육 js 뇌
 
+
+<hr>
+ - [강의 보러가기](https://nomadcoders.co/?gclid=CjwKCAiAmuKbBhA2EiwAxQnt7w7g5jfsELDMdmhcNEZni6PB8KRT0iCmO6XCmZce4WzJ6yd7ml8hRBoCegQQAvD_BwE)
+ 
+ 
