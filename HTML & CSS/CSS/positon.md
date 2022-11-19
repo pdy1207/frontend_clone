@@ -20,6 +20,6 @@ position:relative; 를 해주면 부모가 된다. <br>
 없으면 body.
 
 
-<hr> 
+
 
 
