@@ -66,3 +66,6 @@ margin은 box의 경계로부터 '바깥' 공간 <br>
 padding은 공간인데 box의 경계로부터 '안쪽' 공간 
 
 
+### border box의 경계
+	
+	border : 굵기, 스타일, 색상 순이다.	
