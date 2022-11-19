@@ -14,3 +14,16 @@
 
 block 속성을 inline로 바꾸고, width와 height를 가지게 하고 싶을 때는 inline-block을 사용한다. <Br>
 하지만 많은 문제가 있고, 오래됐기 대문에 잘 사용하지 않음. <Br>
+
+## 그래서 나온게 ** flex!!! ** 
+  
+      flex-container가 height를 가지고 있지 않으면 align-items를 사용하더라도 위치가 바뀌지 않음.  
+  #### 사용 규칙
+  
+- 자식 엘리먼트를 움직이게 하려면 부모 엘리먼트를 flex container로 만들어야 한다.
+- align-items : cross axis에서 작용 (세로)
+- justify-content : main axis에서 작용 (가로) (디폴트)
+  
+  
+  
+  
