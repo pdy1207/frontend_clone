@@ -12,7 +12,7 @@ block 은 높이와 넓이가 있다. `한 줄에 나열되지 않고 그 자체
 
 <hr>
 
-### margin
+### margin 
 
 `margin` 
 	margin은 공간인데, box의 border(경계)의 바깥에 있는 공간
@@ -49,7 +49,20 @@ margin: a b c d; 하셔도 순서대로 적용 됩니다. <br>
 
  - [마진 예제](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
 
+<hr>
+	
+### padding
+	
+padding은 공간인데 box의 경계로부터 '안쪽' 공간<br>
+값의 개수에 따라 적용되는 방향은 margin과 동일하다.
 
-
+	
+## 요약
+	
+자 다시 <br>
+margin은 box의 경계로부터 '바깥' 공간 <br>
+ 
+그럼 padding은? <br>
+padding은 공간인데 box의 경계로부터 '안쪽' 공간 
 
 
