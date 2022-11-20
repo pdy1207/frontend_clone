@@ -25,3 +25,8 @@
    - 만약 같은 selector를 가리키는 CSS가 여러개이면, `가장 마지막 스타일`이 적용된다.<BR>  
   ※ 따로따로 쓰지말고 같이 써주는게 좋다.
   
+### media 
+
+        @media screen and (min-width: npx) and (max-width:npx) and
+         (orientation : landscape혹은portrait) => 
+        스크린 사이즈에 따라서 property 조정 가능함. orientation으로 가로 세로 감지 가능
