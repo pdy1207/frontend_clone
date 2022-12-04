@@ -1,0 +1,21 @@
+.nav-container {
+  display: flex;
+  height: 80px;
+  align-items: center;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.flex-item h1 {
+  font-size: 35px;
+  font-weight: 500;
+}
+.flex-item h3 {
+  font-size: 20px;
+  font-weight: 300;
+}
+.flex-item:nth-child(1) {
+  flex-grow: 1;
+}
+.flex-item:nth-child(3) {
+  margin-right: 15px;
+}

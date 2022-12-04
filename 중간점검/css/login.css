@@ -1,0 +1,63 @@
+/* 로그인 */
+.w-100 {
+  padding: 10px;
+}
+.form-background {
+  background: black;
+  opacity: 0.8;
+  padding: 30px;
+}
+.form-white {
+  background-color: white;
+  padding: 30px;
+  width: 80%;
+  max-width: 600px;
+  margin: auto;
+}
+.form-white h3 {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 5px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+.form-white p {
+  font-size: 23px;
+  margin-bottom: 15px;
+}
+.form-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+.w-50 {
+  width: 50%;
+  float: left;
+  margin-top: 15px;
+  padding: 10px;
+}
+.send {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+.send-btn {
+  cursor: pointer;
+  padding: 10px 30px;
+  display: block;
+  margin-left: auto;
+  text-transform: uppercase;
+  background: none;
+  border: 1px solid black;
+  transition: all 0.3s;
+}
+.send-btn:hover {
+  background-color: tomato;
+  color: white;
+  border: none;
+}
