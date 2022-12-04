@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* 변수 */
+/* scss 와 sass차이?
+   sass파일은 sass문법 사용가능한데 괄호를 안써도됨.
+   ※중복없애려면 뼈와 살을 분리하자.
+*/
+.box {
+  color: red;
+  font-size: 14px;
+}
+
+.background {
+  background-color: red;
+  font-size: 21px;
+}
+
+/* nesting문법 
+   관련있는 class들 묶을때 좋음
+   nesting은 두개 이상 중첩 하지말자
+*/
+.main-bg {
+  width: 100px;
+}
+.main-bg h4 {
+  font-size: 16px;
+}
+.main-bg button {
+  color: red;
+}
+
+/* @extend 문법
+  class전체를 복사해주는 @extend 문법
+   % ? 임시클래스명
+   단독으로 컴파일이 되지않는다.
+   중복된 스타일들이 많으면
+   1. 클래스로 묶어두고
+   2. @extend로 필요할 때 복사하자
+*/
+.btn-greem {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+}
+
+.btn-greem {
+  color: green;
+}
+
+.box3, .box2, .box1 {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+}
+
+.box1 {
+  background-color: #efefef;
+}
+
+.box2 {
+  background-color: blue;
+}
+
+.box3 {
+  background-color: red;
+}/*# sourceMappingURL=test.css.map */
